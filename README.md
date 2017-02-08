@@ -1,6 +1,6 @@
 # description
-Allow you to execute any JS module from HTML declaration `<div class="js-module" data-module="say-hello"></div>`
-It will find a JS file in the `./src/js/modules` that will be executed on DOM ready and or `document.load`
+Loads a JS module from a HTML declaration `<div class="js-module" data-module="say-hello"></div>`
+The JS file is located in : `./src/js/modules` and executed on DOM ready and/or `document.load`
 
 # installation
 1. npm install
